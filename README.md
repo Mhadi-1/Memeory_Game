@@ -1,4 +1,4 @@
-Easy And Funy Game With Simple UI Made It By Salf With Out , YouTub Or GPT :) 
+Easy And Funy Game With Simple UI , I Made It By Salf With Out , YouTub Or GPT :) 
 I try To Made It With Out Custing a Memory Space ,
 Or  Data Structurs That Takes More Space On a Memory 
 
