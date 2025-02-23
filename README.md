@@ -7,8 +7,8 @@ Or  Data Structurs That Takes More Space On a Memory
 https://github.com/user-attachments/assets/4bcae009-1277-481d-b075-2057d543658c
 
 
-user login and sign-in functionality using SQL Server, implemented in a three-tier architecture
-Функциональность входа и регистрации пользователей с использованием SQL Server, реализованная в трехуровневой архитектуре.
+user login and sign-in functionality using SQL Server, implemented in 
+a three-tier architecture Функциональность входа и регистрации пользователей с использованием SQL Server, реализованная в трехуровневой архитектуре.
 
 https://github.com/user-attachments/assets/63080f70-6f4d-4aff-bf6a-80f1e016333f
 
