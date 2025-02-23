@@ -1,8 +1,8 @@
-Easy And Funy Game With Simple UI , I Made It By Salf With Out , YouTub Or GPT :) 
+Easy And Funy Game With Simple UI , I Made It By Salf With Out , YouTub Or GPT 
 I try To Made It With Out Custing a Memory Space ,
 Or  Data Structurs That Takes More Space On a Memory 
 
-Легкая и веселая игра с простым пользовательским интерфейсом. Я сделал это сам, без помощи YouTube или GPT :) Я постарался сделать это без использования памяти, или структур данных, которые занимают больше места в памяти.
+Легкая и веселая игра с простым пользовательским интерфейсом. Я сделал это сам, без помощи YouTube или GPT Я постарался сделать это без использования памяти, или структур данных, которые занимают больше места в памяти.
 
 https://github.com/user-attachments/assets/4bcae009-1277-481d-b075-2057d543658c
 
