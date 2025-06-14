@@ -1,6 +1,6 @@
 # **Memory-Friendly Fun: "Click & Win" Game** 🎮  
 
-A **lightweight, hilarious, and addictive** mini-game built with **C#** and **.NET**—crafted entirely from scratch **without YouTube tutorials, GPT, or complex data structures!** Designed to be **memory-efficient**, this game avoids bloated code while delivering maximum fun.  
+A fun and interactive card-matching memory game developed using C# and .NET Framework. Test your memory by flipping cards to find matching pairs within the fewest moves possible!
 
 ## **Features**  
 ✔ **Super Simple UI** – Clean and intuitive, no clutter!  
